@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib-2.1.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/4a4881c56f5c1a915cf13ca744718ba66449dbf0/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4a4881c56f5c1a915cf13ca744718ba66449dbf0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/fr.tvbarthel.blurdialogfragment/lib/2.1.5/a005042791965234c9008c2567c4374273644040/lib-2.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

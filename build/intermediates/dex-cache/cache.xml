@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\segev\Desktop\saferivework\app\lib\log4j-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f90475694c41965c9a0c8bac53ea5c690dea446">
+        <dex dex="C:\Users\segev\Desktop\saferivework\app\build\intermediates\transforms\dex\debug\folders\1000\2\log4j-1.2.17_9f2cd062d62ec794590e8295fcdcb6f6a4b0fc98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\segev\Desktop\saferivework\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cd9d16927e40e76bc4f20e32566f763cec2cf08">
+        <dex dex="C:\Users\segev\Desktop\saferivework\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4a432508e50235b8fa4c7dab0a542bd08095f9b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\segev\Desktop\saferivework\app\lib\android-logging-log4j-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bee823e6955d3a5806700026f838ebbca907ac7a">
+        <dex dex="C:\Users\segev\Desktop\saferivework\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-logging-log4j-1.0.3_cdeafda0f04ec1f6fc12fa7afbf42146df644e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\segev\Desktop\saferivework\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\segev\Desktop\saferivework\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ae4bb32dd8a3565418ac26d23b97f8d8365b86c6\classes.dex" />
+    </item>
+
+</items>

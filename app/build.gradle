@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.segeval.safedrive"
+        minSdkVersion 17
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+    compile 'com.github.dmytrodanylyk.android-process-button:library:1.0.4'
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile 'com.wrapp.floatlabelededittext:library:0.0.6'
+    compile 'info.hoang8f:fbutton:1.0.5'
+    compile 'com.android.support:appcompat-v7:21.1'
+    compile 'fr.tvbarthel.blurdialogfragment:lib:2.1.5'
+    compile 'com.github.d-max:spots-dialog:0.4@aar'
+    compile 'com.squareup.retrofit2:retrofit:2.0.2'
+    compile 'junit:junit:4.12'
+    compile files('lib/android-logging-log4j-1.0.3.jar')
+    compile files('lib/log4j-1.2.17.jar')
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SafeDrive</string>
+    <string name="no_devices">Please make sure you have been paired with an OBD-II device</string>
+    <string name="no_devices2">No Devices have been paired</string>
+    <string name="bt">BlueTooth</string>
+    <string name="username">username</string>
+    <string name="driver_name">driver</string>
+    <string name="wifi">WiFi</string>
+    <string name="manager">Choose Your Manager:</string>
+    <string name="RPM">RPM: </string>
+    <string name="Speed">Speed: </string>
+    <string name="login">Login</string>
+    <string name="Thro">Thro: </string>
+    <string name="add">add </string>
+    <string name="stop">Stop Reading!</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="name">name</string>
+    <string name="wifi_msg">Connect to the OBD device\'s wifi access , Click \'Ok\' as soon as you ready</string>
+    <string name="bt_msg">Connect to the OBD device\'s BlueTooth access , Click \'Ok\' as soon as you ready</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="choose_msg">Choose which device manager you would like to use:</string>
+    <string name="dsc_wifi_msg">Click \'Send\' as soon as you\'re ready</string>
+    <string name="dsc_wifi_msg_con">Seems like you\'re still connected To the Obd\'s Wifi ,
+        Please disconnect from the device connection and get back into 3G services or any other Wifi services Click \'Send\' as soon as you\'re connected</string>
+    <string name="welc">Welcome</string>
+    <string name="try_again">Cannot Connect</string>
+    <string name="cred">Bad Credentials</string>
+    <string name="options">options</string>
+    <string name="ip_address">ip-address</string>
+    <string name="port">port</string>
+    <string name="save">Save</string>
+    <string name="waiting">waiting</string>
+    <string name="close">close</string>
+    <string name="server_address">server address</string>
+</resources>
