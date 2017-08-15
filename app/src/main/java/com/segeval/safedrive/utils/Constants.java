@@ -2,7 +2,6 @@ package com.segeval.safedrive.utils;
 
 public class Constants {
 
-    public static final String FLURRY_TAG = "FLURRY";
     public static final String SERVER_IP = "SERVER";
 
     private Constants() {

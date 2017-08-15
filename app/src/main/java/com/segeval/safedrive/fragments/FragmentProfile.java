@@ -107,16 +107,7 @@ public class FragmentProfile extends Fragment {
                 optionBtn.show();
             }
         });
-//        ImageView data = (ImageView) view.findViewById(R.id.data_ib);
-//        data.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                String url = "http://54.152.123.228/api/v1/flurry/drivers/" + Model.getInstance().getId() + "/";
-//                Intent i = new Intent(Intent.ACTION_VIEW);
-//                i.setData(Uri.parse(url));
-//                startActivity(i);
-//            }
-//        });
+
 
         ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Choose an Action");
         //allows the fragment to get onTouchListener notifications

@@ -10,7 +10,7 @@ import de.mindpipe.android.logging.log4j.LogConfigurator;
 
 
 public class Log4jHelper {
-    public final static String logFileName = "flurry.log";
+    public final static String logFileName = "safedrive.log";
     private final static LogConfigurator CONFIGURATOR = new LogConfigurator();
 
     static {
